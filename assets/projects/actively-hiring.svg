@@ -1,0 +1,12 @@
+<svg width="420" height="280" viewBox="0 0 420 280" xmlns="http://www.w3.org/2000/svg">
+  <rect width="420" height="280" rx="28" fill="#0F1724"/>
+  <rect x="40" y="50" width="340" height="60" rx="16" fill="#162136" stroke="#1f2b44"/>
+  <rect x="70" y="70" width="180" height="12" rx="6" fill="#273253"/>
+  <rect x="70" y="90" width="140" height="8" rx="4" fill="#1f2b44"/>
+  <rect x="40" y="130" width="340" height="100" rx="20" fill="#111c32" stroke="#192542"/>
+  <rect x="70" y="150" width="140" height="12" rx="6" fill="#42f6ff" opacity="0.6"/>
+  <rect x="70" y="170" width="200" height="12" rx="6" fill="#42f6ff" opacity="0.4"/>
+  <circle cx="320" cy="180" r="32" fill="#162a4a"/>
+  <path d="M307 182 l10 10 20 -24" stroke="#53FFAA" stroke-width="6" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="310" y="186" fill="#53FFAA" font-family="Inter, sans-serif" font-size="12" opacity="0.8">LIVE</text>
+</svg>

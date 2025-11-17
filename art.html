@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Arushee Garg | Digital Art</title>
+    <meta name="description" content="Selected digital paintings by Arushee Garg." />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&family=Inter:wght@400;500;600&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="bg-texture"></div>
+    <header class="hero">
+      <div class="container">
+        <nav class="nav">
+          <a class="logo" href="index.html">Arushee Garg</a>
+          <div class="nav-links">
+            <a href="index.html#overview">Overview</a>
+            <a href="index.html#work">Work</a>
+            <a href="index.html#personal">Personal</a>
+            <a href="index.html#experience">Experience</a>
+            <a href="art.html" aria-current="page">Art</a>
+            <a href="index.html#contact">Contact</a>
+          </div>
+        </nav>
+        <div class="hero-stack">
+          <div class="hero-text">
+            <p class="eyebrow">Creative practice</p>
+            <h1>Digital paintings grounding my storytelling</h1>
+            <p class="hero-lede">
+              Balancing large-scale engineering with visual explorations in light, motion, and human
+              connection.
+            </p>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <main class="section art">
+      <div class="container">
+        <div class="art-grid" id="artGrid"></div>
+      </div>
+    </main>
+
+    <footer>
+      <div class="container">
+        <p>© <span id="year"></span> Arushee Garg • Crafted for the GitHub community</p>
+      </div>
+    </footer>
+
+    <script>
+      document.getElementById('year').textContent = new Date().getFullYear();
+    </script>
+    <script src="art.js" type="module"></script>
+  </body>
+</html>

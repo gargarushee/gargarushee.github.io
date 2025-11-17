@@ -1,0 +1,21 @@
+<svg width="420" height="280" viewBox="0 0 420 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ciGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFD39C"/>
+      <stop offset="100%" stop-color="#FF7AC0"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="280" rx="28" fill="#101226"/>
+  <rect x="30" y="40" width="360" height="60" rx="14" fill="#181B33" stroke="#202548"/>
+  <rect x="50" y="58" width="120" height="12" rx="6" fill="#31365C"/>
+  <rect x="50" y="76" width="80" height="8" rx="4" fill="#23274A"/>
+  <rect x="170" y="58" width="180" height="12" rx="6" fill="#23274A"/>
+  <rect x="170" y="76" width="140" height="8" rx="4" fill="#31365C"/>
+  <rect x="30" y="120" width="360" height="120" rx="20" fill="#151A36" stroke="#1f2545"/>
+  <path d="M70 210 L150 150 L210 190 L280 130 L340 200" stroke="url(#ciGrad)" stroke-width="8" fill="none" stroke-linecap="round" opacity="0.8"/>
+  <circle cx="70" cy="210" r="9" fill="#FFD39C"/>
+  <circle cx="150" cy="150" r="9" fill="#FFB180"/>
+  <circle cx="210" cy="190" r="9" fill="#FF9BC9"/>
+  <circle cx="280" cy="130" r="9" fill="#FF7AC0"/>
+  <circle cx="340" cy="200" r="9" fill="#FF99E0"/>
+</svg>

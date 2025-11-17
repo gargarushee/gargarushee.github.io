@@ -1,0 +1,18 @@
+<svg width="420" height="280" viewBox="0 0 420 280" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="poGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#876BFF"/>
+      <stop offset="100%" stop-color="#41E5FF"/>
+    </linearGradient>
+  </defs>
+  <rect width="420" height="280" rx="28" fill="#0F1425"/>
+  <rect x="30" y="40" width="360" height="60" rx="14" fill="#1B213A" stroke="#232C4A"/>
+  <circle cx="80" cy="70" r="20" fill="url(#poGrad)"/>
+  <rect x="120" y="55" width="200" height="12" rx="6" fill="#2E375A"/>
+  <rect x="120" y="75" width="150" height="10" rx="5" fill="#232C4A"/>
+  <rect x="30" y="120" width="360" height="60" rx="14" fill="#131A33" stroke="#1f2744"/>
+  <rect x="60" y="145" width="150" height="6" rx="3" fill="#876BFF"/>
+  <rect x="230" y="145" width="110" height="6" rx="3" fill="#41E5FF"/>
+  <rect x="30" y="200" width="360" height="60" rx="14" fill="#131A33" stroke="#1f2744"/>
+  <path d="M70 220 C120 220 150 250 200 250 S280 220 330 220" stroke="#41E5FF" stroke-width="6" fill="none" stroke-linecap="round" opacity="0.7"/>
+</svg>
