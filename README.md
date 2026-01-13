@@ -2,6 +2,10 @@
 
 Interactive GitHub portfolio for Arushee Garg showcasing AI-native engineering leadership, flagship projects and keynote visibility.
 
+## GitHub Pages deployment
+
+This repository ships with a GitHub Actions workflow that deploys the site from the `main` branch to GitHub Pages. In your repository settings, set **Pages → Build and deployment** to **GitHub Actions** and the site will publish on every push to `main`.
+
 ## Local development
 
 ```bash
