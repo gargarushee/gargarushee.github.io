@@ -151,6 +151,17 @@ const artPieces = [
   },
 ];
 
+const backLink = document.querySelector('.back-link');
+if (backLink) {
+  const isFileProtocol = window.location.protocol === 'file:';
+  if (isFileProtocol) {
+    backLink.setAttribute('href', 'index.html');
+  } else {
+    const basePath = window.location.pathname.replace(/[^/]*$/, '');
+    backLink.setAttribute('href', `${window.location.origin}${basePath}`);
+  }
+}
+
 const artGridEl = document.getElementById('artGrid');
 
 const lightbox = document.createElement('div');
