@@ -1,10 +1,3 @@
-const metrics = [
-  { label: 'Years delivering large-scale systems', value: '7+' },
-  { label: 'AI initiatives led end-to-end', value: '12' },
-  { label: 'Daily premium touchpoints unlocked', value: '25K' },
-  { label: 'Engineers mentored + coached', value: '20+' }
-];
-
 const pillars = [
   {
     title: 'AI-native product architecture',
