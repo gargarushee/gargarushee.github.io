@@ -54,7 +54,7 @@ const personalProjects = [
     title: 'Distributional Alignment of SLMs',
     context: 'Stanford CS329H · 2024',
     summary: 'Compared low-rank adaptation, steering vectors, and fine-tuning baselines.',
-    media: 'assets/projects/slm-research.svg',
+    media: 'assets/projects/cs329h-final-poster.png',
     link: 'https://github.com/gargarushee/Benchmarking-Distributional-Alignment-of-Small-Language-Models'
   },
   {
