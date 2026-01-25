@@ -98,19 +98,6 @@ const experiences = [
       'Kick-started ongoing collaboration between Empa and open-source contributors.'
     ],
     stack: 'JavaScript, Node-RED, Highcharts, OPC UA, SQL'
-  },
-  {
-    company: 'Education',
-    role: 'Purdue University · MS CS · GPA 3.94/4',
-    period: '2016 – 2018',
-    summary:
-      'Focus on distributed systems and AI; complemented by BITS Pilani B.E. (Hons) with leadership in athletics and student government.',
-    highlights: [
-      'Coursework: Stanford CS329H, UC Berkeley LLM Agents, Statistics for AI.',
-      'Graduate TA and women-in-tech organizer.',
-      'Recipient of KVPY award and national scholarships.'
-    ],
-    stack: 'ML, Data systems, Leadership'
   }
 ];
 
@@ -137,7 +124,7 @@ const leadershipSections = [
   {
     title: 'Speaking & Learning',
     items: [
-      'TechFutures 2025 keynote “Agentic AI: Concept to Production” for 5K attendees.',
+      'TechFutures 2025 Speaker “Agentic AI: Concept to Production” for 5K attendees.',
       'Stanford CS329H – Machine Learning with Human Preferences (Grade A).',
       'UC Berkeley CS 194/294-196 – LLM Agents (2025).'
     ]
@@ -165,9 +152,7 @@ const educationEntries = [
     title: 'Purdue University',
     subtitle: 'MS in Computer Science · GPA 3.94/4',
     items: [
-      'Graduate Teaching Assistant focused on distributed systems and AI.',
-      'Coursework highlights: Statistics for Data Science & AI.',
-      'Research on agentic workflows and resume intelligence.'
+      'Graduate Teaching Assistant',
     ]
   },
   {
@@ -175,15 +160,14 @@ const educationEntries = [
     subtitle: 'B.E. (Hons) · GPA 3.26/4',
     items: [
       'Joint Sports Secretary and captain, Women’s Basketball.',
-      'Led student initiatives supporting women in technology.',
-      'Early experience in startups (Practo) and open-source.'
+      'Led student initiatives supporting women in technology.'
     ]
   },
   {
     title: 'Continuing Learning',
     subtitle: 'Stanford CS329H · UC Berkeley LLM Agents · Stanford Continuing Studies',
     items: [
-      'CS329H + CS 194/294-196 exploring representation steering & agents.',
+      'Stanford CS329H exploring representation steering & agents.',
       'Statistics for Data Science & Artificial Intelligence (Stanford).',
       'Ongoing applied research on generative AI trust and alignment.'
     ]
