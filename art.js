@@ -30,34 +30,19 @@ const artPieces = [
     image: 'assets/art/Alaska.PNG'
   },
   {
+    title: 'Beautiful Couple',
+    description: 'A romantic portrait with gentle light and soft movement.',
+    image: 'assets/art/beautifulcouple.jpg'
+  },
+  {
     title: 'Golden Gate Bridge',
     description: 'Bold geometric forms exploring symmetry, balance, and Golden Gate Bridge.',
     image: 'assets/art/GoldenGate.PNG'
   },
   {
-    title: 'Beach Daylight',
-    description: 'Sunlit shoreline with soft waves and a calm, airy palette.',
-    image: 'assets/art/Beach.jpg'
-  },
-  {
-    title: 'Beautiful Alaska',
-    description: 'Layered peaks and icy blues capturing the scale of northern wilderness.',
-    image: 'assets/art/BeautifulAlaska.jpg'
-  },
-  {
-    title: 'Hawaiian Breeze',
-    description: 'Tropical palette with surf mist and a glowing coastal horizon.',
-    image: 'assets/art/hawaii.PNG'
-  },
-  {
-    title: 'Meditation',
-    description: 'Quiet stillness, diffused light, and a calm breath in the center of the frame.',
-    image: 'assets/art/meditate.JPG'
-  },
-  {
-    title: 'Gossip Villagers',
-    description: 'Lively figures and warm hues telling a village story in motion.',
-    image: 'assets/art/GossipVillagers.jpg'
+    title: 'The Pack',
+    description: 'A cohesive group composition built with warm, earthy strokes.',
+    image: 'assets/art/ThePack.jpg'
   },
   {
     title: 'Starry Night Reimagined',
@@ -65,14 +50,39 @@ const artPieces = [
     image: 'assets/art/StarryNight.jpeg'
   },
   {
+    title: 'Hawaiian Breeze',
+    description: 'Tropical palette with surf mist and a glowing coastal horizon.',
+    image: 'assets/art/hawaii.PNG'
+  },
+  {
+    title: 'Colorful Meditation',
+    description: 'Vibrant aura and tranquil posture blending energy with stillness.',
+    image: 'assets/art/colorfulMeditation.jpg'
+  },
+  {
+    title: 'Beach Daylight',
+    description: 'Sunlit shoreline with soft waves and a calm, airy palette.',
+    image: 'assets/art/Beach.jpg'
+  },
+  {
+    title: 'Meditation',
+    description: 'Quiet stillness, diffused light, and a calm breath in the center of the frame.',
+    image: 'assets/art/meditate.JPG'
+  },
+  {
+    title: 'Beautiful Alaska',
+    description: 'Layered peaks and icy blues capturing the scale of northern wilderness.',
+    image: 'assets/art/BeautifulAlaska.jpg'
+  },
+  {
+    title: 'Gossip Villagers',
+    description: 'Lively figures and warm hues telling a village story in motion.',
+    image: 'assets/art/GossipVillagers.jpg'
+  },
+  {
     title: 'Buddha Stillness',
     description: 'Quiet devotion and glowing light shaped around a serene figure.',
     image: 'assets/art/Buddha.jpg'
-  },
-  {
-    title: 'Beautiful Couple',
-    description: 'A romantic portrait with gentle light and soft movement.',
-    image: 'assets/art/beautifulcouple.jpg'
   },
   {
     title: 'Fall Waterfall',
@@ -105,11 +115,6 @@ const artPieces = [
     image: 'assets/art/RadhaDevotion.jpg'
   },
   {
-    title: 'The Pack',
-    description: 'A cohesive group composition built with warm, earthy strokes.',
-    image: 'assets/art/ThePack.jpg'
-  },
-  {
     title: 'Tulips in Bloom',
     description: 'Fresh spring hues layered with delicate botanical texture.',
     image: 'assets/art/Tulips.jpg'
@@ -118,11 +123,6 @@ const artPieces = [
     title: 'Watercolor Roses',
     description: 'Loose watercolor-inspired petals and soft washes of color.',
     image: 'assets/art/WaterColorRoses.jpg'
-  },
-  {
-    title: 'Colorful Meditation',
-    description: 'Vibrant aura and tranquil posture blending energy with stillness.',
-    image: 'assets/art/colorfulMeditation.jpg'
   },
   {
     title: 'Diwali Glow',
