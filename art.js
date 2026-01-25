@@ -1,8 +1,28 @@
 const artPieces = [
   {
+    title: 'Anticipation',
+    description: 'Regal tones and historic architecture with a poised figure.',
+    image: 'assets/art/LadyInTheFort.JPG'
+  },
+  {
     title: 'Alaska Glimmers',
     description: 'Glacial light and mountain silhouettes inspired by a northern road trip.',
     image: 'assets/art/Alaska.PNG'
+  },
+  {
+    title: 'Paris Dream',
+    description: 'Romantic city glow with soft architecture and a dreamy twilight haze.',
+    image: 'assets/art/parisDream.png'
+  },
+  {
+    title: 'Taj Mahal Reverie',
+    description: 'Monumental silhouette with soft glow and historic presence.',
+    image: 'assets/art/tajmahal.JPG'
+  },
+  {
+    title: 'Radha Krishna',
+    description: 'Devotional portrait with lotus hues and delicate ornamentation.',
+    image: 'assets/art/radhaKrishna.jpg'
   },
   {
     title: 'Beach Daylight',
@@ -30,9 +50,9 @@ const artPieces = [
     image: 'assets/art/Family.jpeg'
   },
   {
-    title: 'GG Monogram Study',
-    description: 'Bold geometric forms exploring symmetry, balance, and playful lettering.',
-    image: 'assets/art/GG.PNG'
+    title: 'Golden Gate Bridge',
+    description: 'Bold geometric forms exploring symmetry, balance, and Golden Gate Bridge.',
+    image: 'assets/art/GoldenGate.PNG'
   },
   {
     title: 'Gossip Villagers',
@@ -53,11 +73,6 @@ const artPieces = [
     title: 'Innocent Child',
     description: 'Soft highlights and tender expression focusing on youthful calm.',
     image: 'assets/art/InnocentChild.jpg'
-  },
-  {
-    title: 'Lady in the Fort',
-    description: 'Regal tones and historic architecture with a poised figure.',
-    image: 'assets/art/LadyInTheFort.JPG'
   },
   {
     title: 'Penguins',
@@ -115,7 +130,7 @@ const artPieces = [
     image: 'assets/art/hawaii.PNG'
   },
   {
-    title: 'Mandala Study',
+    title: 'Mandala New Year',
     description: 'Intricate symmetry and detailed pattern work in layered tones.',
     image: 'assets/art/mandala.jpg'
   },
@@ -125,30 +140,15 @@ const artPieces = [
     image: 'assets/art/meditate.JPG'
   },
   {
-    title: 'Paris Dream',
-    description: 'Romantic city glow with soft architecture and a dreamy twilight haze.',
-    image: 'assets/art/parisDream.png'
-  },
-  {
     title: 'Pattachitra Elephant',
     description: 'Traditional motif with ornate detailing and rhythmic pattern work.',
     image: 'assets/art/pattachitraElephant.jpg'
-  },
-  {
-    title: 'Radha Krishna',
-    description: 'Devotional portrait with lotus hues and delicate ornamentation.',
-    image: 'assets/art/radhaKrishna.jpg'
   },
   {
     title: 'Rose Bloom',
     description: 'Close-up floral study with velvety gradients and warm light.',
     image: 'assets/art/roseBloom.jpg'
   },
-  {
-    title: 'Taj Mahal Reverie',
-    description: 'Monumental silhouette with soft glow and historic presence.',
-    image: 'assets/art/tajmahal.JPG'
-  }
 ];
 
 const artGridEl = document.getElementById('artGrid');
