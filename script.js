@@ -1,20 +1,6 @@
-const pillars = [
-  {
-    title: 'AI-native product architecture',
-    detail:
-      'Designing agentic systems, multi-step workflows, and trustworthy data contracts for premium outreach, resume intelligence, and insights.'
-  },
-  {
-    title: 'Growth & monetization strategy',
-    detail:
-      'Driving intent-based premium upsells, entitlement logic, and signal pipelines that lift impressions, conversions, and retention.'
-  },
-  {
-    title: 'Inclusive leadership & mentorship',
-    detail:
-      'Mentoring bootcamps, TechWomen cohorts, and cross-functional pods while building psychologically safe teams.'
-  }
-];
+const metrics = [];
+
+const pillars = [];
 
 const workProjects = [
   {
@@ -129,11 +115,11 @@ const experiences = [
 ];
 
 const skills = [
-  'Java',
-  'Scala',
+  'LLMs',
   'Python',
   'Generative AI',
-  'LLMs',
+  'Java',
+  'Scala',
   'gRPC',
   'GraphQL',
   'REST APIs',
@@ -144,10 +130,6 @@ const skills = [
   'Azure',
   'SQL',
   'Big Data',
-  'Ruby on Rails',
-  'React',
-  'Redux',
-  'AngularJS',
   'PostgreSQL'
 ];
 
