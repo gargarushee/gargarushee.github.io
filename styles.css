@@ -73,16 +73,15 @@ p {
 }
 
 .page-layout {
-  display: grid;
-  grid-template-columns: minmax(200px, 0.28fr) minmax(0, 1fr);
-  gap: 2rem;
-  width: min(1200px, 92vw);
-  margin: 0 auto;
-  padding: 2rem 0 3rem;
+  display: block;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 
 .page-content {
   min-width: 0;
+  width: 100%;
 }
 
 .section-nav {
